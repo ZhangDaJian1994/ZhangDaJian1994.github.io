@@ -8,10 +8,10 @@ author:   Jiafeimao                      # 作者
 catalog: true                       # 是否归档
 tags:                               #标签
     - Java
+typora-copy-images-to: img
+typora-root-url: img
 ---
 
 
 
-![1559620019569](../img/assets/1559620019569.png)
-
-![1559620269538](img/1559620269538.png)
+![1559621326614](/1559621326614.png)
