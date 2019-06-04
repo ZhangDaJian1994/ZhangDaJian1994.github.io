@@ -9,9 +9,12 @@ catalog: true                       # 是否归档
 tags:                               #标签
     - Java
 typora-copy-images-to: img
-typora-root-url: img
+
 ---
 
 
 
-![1559621326614](/1559621326614.png)
+![1559622459663](img/1559622459663.png)
+
+this is a test!
+
